@@ -29,7 +29,7 @@ This Python script is a simple web crawler that extracts images from web pages a
 1. **Clone this repository:**
 
 ```
-git clone https://github.com/shamsail/web-crawler.git
+git clone https://github.com/shamsail/python-web-crawler-for-images.git
 cd web-crawler
 ```
 
